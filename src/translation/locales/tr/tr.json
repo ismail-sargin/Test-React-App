@@ -1,0 +1,27 @@
+{
+    "hello":"Merhaba",
+    "choose":"TR",
+    "ourHotels":"OTELLERİMİZ",
+    "acoomodation":"KONAKLAMA",
+    "restaurant":"RESTORAN",
+    "activities":"AKTİVİTELER",
+    "spa":"SPA & SAĞLIK",
+    "conference":"TOPLANTI",
+    "spor":"SPOR",
+    "travelInTime":"Asteria Kremlin Palace ile zamanda yolculuk",
+    "travelInTimeDesc":"Asteria Kremlin Palace, size muhteşem atmosferi hissetme ve Rus Çarlarının evini keşfetme şansı vermek için Moskova'daki Kremlin Sarayı'ndan esinlenerek inşa edilmiştir. Otel, Antalya'nın en modern tatil beldelerinden birinde yer almaktadır.",
+    "travelInTimeDesc2":"Kundu. Kundu, sadece Antalya şehir merkezine yakın konumuyla değil, aynı zamanda altın kumsallarının güzelliği ve rahatlatıcı atmosferiyle de turistleri cezbetmektedir.",
+    "specialTo":"SANA ÖZEL",
+    "clickTo":"Daha fazla ayrıntı için lütfen tıklayın...",
+    "specialToDesc":"Asteria Kremlin Palace size ve sevdiklerinize konforlu konaklama imkanları sunuyor. Otelin konumu size muhteşem Antalya'yı keşfetme imkanı verirken muhteşem bir atmosfer ve kaliteli hizmet sunar.",
+    "detail":"Lütfen ayrıntılı olarak inceleyin.",
+    "home":"ANASAYFA",
+    "marriage":"EVLİLİK & BALAYI",
+    "kids":"ASTERİA ÇOCUK KULÜBÜ",
+    "info":"BİLGİ FORMU",
+    "multimedia":"MULTİMEDYA",
+    "personal":"KİŞİSEL VERİLERİN KORUNMASI",
+    "ourHotelsPascalCase":"Otellerimiz",
+    "reserved":" © 2018 Tüm hakları Saklıdır."
+
+}
